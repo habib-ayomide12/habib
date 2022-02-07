@@ -1,0 +1,14 @@
+i.icons{
+    font-size: larger;
+}
+
+section.service, div.header-1{
+    padding: 60px 0;
+}
+nav ul a,
+nav .brand-logo {
+    color: #444;
+}
+p{
+    line-height: 2rem;
+}
